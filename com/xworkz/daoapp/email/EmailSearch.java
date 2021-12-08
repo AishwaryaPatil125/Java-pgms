@@ -1,0 +1,10 @@
+package com.xworkz.daoapp.email;
+
+public interface EmailSearch {
+
+	boolean expression(String arg1, String arg2);
+
+	
+	
+
+}
